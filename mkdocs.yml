@@ -1,1 +1,9 @@
-site_name: My Docs
+site_name: Tacticode Documentation
+pages:
+- Home: 'index.md'
+- Game:
+    - 'Teams & characters': 'game/teams.md'
+    - 'Talent tree & spells': 'game/talents.md'
+    - 'Arena & rankings': 'game/arena.md'
+- Scripting:
+    - 'Getting started': 'scripting/getting-started.md'
