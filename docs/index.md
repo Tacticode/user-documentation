@@ -16,7 +16,7 @@ However, there is a trick: the behaviour of each character has to be scripted in
 
 * [Teams & characters](game/teams.md): If you want more information about teams and characters attributes.
 
-* [Talent tree & spells](game/talents.md): Looking for an exhaustive list of all available skills?
+* [Talents tree & spells](game/talents.md): Looking for an exhaustive list of all available skills?
 
 * [Arena & rankings](game/arena.md): Everything you need to know about the arena and the ELO ranking.
 
