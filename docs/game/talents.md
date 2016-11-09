@@ -189,25 +189,60 @@ This passive skill does not require line of sight.
 
 ## Warrior
 
+The Warrior is a physical class designed to deal physical damages ignoring a part of the target defences.
+
+This is one of the two Orc branches and is located next to Elf race.
+
+You can find this class on the bottom part of the tree.
+
 ### Smash *(active)*
 
 <img alt="Smash" src="../img/skills/smash.png" style="margin: 0; padding: 0; float: right;">
+
+Smash makes the user hit the ground in front of him, dealing [2 x strength] physical damages to all entities in a line.
+
+* Range: 1 - 1
+* Area of effect: 2 cells
+* Cooldown: 2 turns
+* Line of sight?: Yes
 
 ### Bladestorm *(active)*
 
 <img alt="Bladestorm" src="../img/skills/bladestorm.png" style="margin: 0; padding: 0; float: right;">
 
+Bladestorm creates a storm of blades around the user, dealing [1 x strength] physical damages to all nearby entities.
+
+* Range: -
+* Area of effect: 2 cells
+* Cooldown: 1 turns
+* Line of sight?: Yes
+
 ### Enhanced Sword *(active)*
 
 <img alt="Enhanced Sword" src="../img/skills/enhanced-sword.png" style="margin: 0; padding: 0; float: right;">
+
+Enhanced Sword will make your next physical attack ignore the physical and magical defences of the targets.
+
+The attack also deals an additional [strength x intelligence x 0.05] physical damages.
+
+&nbsp;
 
 ### Penetration *(passive)*
 
 <img alt="Penetration" src="../img/skills/penetration.png" style="margin: 0; padding: 0; float: right;">
 
+Penetration makes your physical attacks ignore 20% of the target physical defence.
+
+&nbsp;
+
+
 ### Avenger *(passive)*
 
 <img alt="Avenger" src="../img/skills/avenger.png" style="margin: 0; padding: 0; float: right;">
+
+Avenger increases the physical damages dealt based on the bearer missing health.
+
+Each physical attack deals an additional [strength x (1 - curHP / totHP)] physical damages.
 
 &nbsp;
 
@@ -219,7 +254,7 @@ The Tank is a physical class designed to protect allies and reduce physical dama
 
 This is one of the two Orc branches and is located next to Human race.
 
-You can find this class on the left part of the tree.
+You can find this class on the bottom-left part of the tree.
 
 ### Shield Break *(active)*
 
@@ -238,7 +273,7 @@ If a wall stands in the way, the entities are not moved past the wall and stop.
 
 <img alt="Shield Bump" src="../img/skills/shield-bump.png" style="margin: 0; padding: 0; float: right;">
 
-Shield Bump is a close combat talent that deals [1 x strength] damages to the target.
+Shield Bump is a close combat talent that deals [1 x strength] physical damages to the target.
 
 * Range: 1
 * Area of effect: 1 cell
