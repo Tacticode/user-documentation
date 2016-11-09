@@ -241,22 +241,61 @@ This passive skill does not require line of sight.
 
 ## Priest
 
+The Priest is a magical class designed to heal allies and protect them.
+
+This is one of the two Human branches and is located next to Orc race.
+
+You can find this class on the left part of the tree.
+
 ### Holy Hand *(active)*
 
 <img alt="Holy Hand" src="../img/skills/holy-hand.png" style="margin: 0; padding: 0; float: right;">
+
+Holy Hand use holy power to heal the target for [0.7 x intelligence] life.
+
+* Range: 0 - 3
+* Area of effect: 1 cell
+* Cooldown: 1 turns
+* Line of sight?: No
 
 ### Divine Protection *(active)*
 
 <img alt="Divine Protection" src="../img/skills/divine-protection.png" style="margin: 0; padding: 0; float: right;">
 
+Divine Protection applies a shield on all the entities in a zone around the priest, be it allies or enemies.
+
+The shield can absorb a total [0.8 x intelligence] damages and last 2 turns.
+
+* Range: 0
+* Area of effect: 3 cell
+* Cooldown: 3 turns
+* Line of sight?: Yes
+
 ### Shieldify *(active)*
 
 <img alt="Shieldify" src="../img/skills/shieldify.png" style="margin: 0; padding: 0; float: right;">
+
+Shieldify slightly increases the armor of an ally by [0.2 x intelligence] for 1 turn.
+
+* Range: 0 - 3
+* Area of effect: 1 cell
+* Cooldown: 3 turns
+* Line of sight?: Yes
 
 ### Phoenix *(passive)*
 
 <img alt="Phoenix" src="../img/skills/phoenix.png" style="margin: 0; padding: 0; float: right;">
 
+Phoenix allows the bearer to revive once a game with 10% of its maximum HP.
+
+&nbsp;
+
 ### Holy Well *(passive)*
 
 <img alt="Holy Well" src="../img/skills/holy-well.png" style="margin: 0; padding: 0; float: right;">
+
+Holy Well heals nearby allies for [0.2 x intelligence] at the start of each turn. The bearer is not affected.
+
+This passive does not require line of sight.
+
+* Area of effect: 1 - 4
