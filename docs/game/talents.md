@@ -85,27 +85,62 @@ This passive skill does not require line of sight.
 
 ## Mage
 
+The mage can be found at the very top of the talent tree. He is a very aggressive magical warrior, able to destroy his ennemies from a distance using the elements.
+
+Mage is one of the two paths of the Goblin race and located next to the Human race.
+
 ### Fireball *(active)*
 
 <img alt="Fireball" src="../img/skills/fireball.png" style="margin: 0; padding: 0; float: right;">
+
+Fireball inflicts [1 × intelligence] magical damage to the target.
+
+* Range: 3 - 5
+* Area of effect: 1 cell
+* Cooldown: 1 turn
+* Line of sight?: Yes
 
 ### Meteore *(active)*
 
 <img alt="Meteore" src="../img/skills/meteore.png" style="margin: 0; padding: 0; float: right;">
 
+Meteore inflicts [1.5 × intelligence] magical damage to all targets within the area of effect.
+
+* Range: 3 - 5
+* Area of effect: 3 cells (circle)
+* Cooldown: 3 turn
+* Line of sight?: No
+
 ### Cold feet *(active)*
 
 <img alt="Cold feet" src="../img/skills/cold-feet.png" style="margin: 0; padding: 0; float: right;">
+
+Cold feet is a frost projectile inflicting [0.3 × intelligence] magical damage to the target.
+
+This will also stun the target for one turn.
+
+* Range: 1 - 3
+* Area of effect: 1 cell
+* Cooldown: 2 turn
+* Line of sight?: Yes
 
 ### Offensive Senses *(passive)*
 
 <img alt="Offensive Senses" src="../img/skills/offensive-senses.png" style="margin: 0; padding: 0; float: right;">
 
+Offensive senses doubles the magical damages inflicted but also doubles all damages taken.
+
+This is a very powerful but very dangerous ability.
+
 ### Damage Zone *(passive)*
 
 <img alt="Damage Zone" src="../img/skills/damage-zone.png" style="margin: 0; padding: 0; float: right;">
 
-&nbsp;
+A mage with the damage zone ability will inflict [0.2 × intelligence] magical damage to all enemies next to him.
+
+* Range: 0
+* Area of effect: 2 cells (circle)
+* Line of sight?: No
 
 ----
 
