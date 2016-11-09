@@ -26,138 +26,237 @@ You can find this class on the top-left part of the tree.
 
 ### Nightmare *(active)*
 
+<img alt="Nightmare" src="../img/skills/nightmare.png" style="margin: 0; padding: 0; float: right;">
+
 Nightmare applies a debuff on the target, who will lose some HP each time he moves.
 
 The debuff lasts for 3 turns and deals 1 magical damage per movement.
 
-Range|Area of effect|Cooldown|Line of sight?
--|-|-|-
-1 - 5|1 cell|3 turns|Yes
+* Range: 1 - 5
+* Area of effect: 1 cell
+* Cooldown: 3 turns
+* Line of sight?: Yes
 
 ### Clairvoyance *(active)*
 
+<img alt="Clairvoyance" src="../img/skills/clairvoyance.png" style="margin: 0; padding: 0; float: right;">
+
 Clairvoyance dispells the invisibility of all opponents in the area.
 
-Range|Area of effect|Cooldown|Line of sight?
--|-|-|-
-0 - 5|5 cells (circle)|1 turn|Yes
+* Range: 0 - 5
+* Area of effect: 5 cells (circle)
+* Cooldown: 1 turn
+* Line of sight?: Yes
 
 ### Malediction *(active)*
+
+<img alt="Malediction" src="../img/skills/malediction.png" style="margin: 0; padding: 0; float: right;">
 
 Malediction applies a debuff on the target, inflicting damage each turn.
 
 The debuff lasts for 3 turns and inflicts 1 magical damage per turn.
 
-Range|Area of effect|Cooldown|Line of sight?
--|-|-|-
-1 - 3|1 cell|2 turns|Yes
+* Range: 1 - 3
+* Area of effect: 1 cell
+* Cooldown: 2 turns
+* Line of sight?: Yes
 
 ### Trance *(passive)*
+
+<img alt="Trance" src="../img/skills/trance.png" style="margin: 0; padding: 0; float: right;">
 
 Trance increases the duration of all debuffs inflicted by this character by 1 turn.
 
 Also decreases the duration of all debuffs cast on this character by 1 turn.
 
+&nbsp;
+
 ### Revelation *(passive)*
+
+<img alt="Revelation" src="../img/skills/revelation.png" style="margin: 0; padding: 0; float: right;">
 
 Revelation allows the character to see invisible entities within an area of 2 cells around them.
 
 This passive skill does not require line of sight.
 
+&nbsp;
+
 ----
 
 ## Mage
 
-#### Fireball *(active)*
+### Fireball *(active)*
 
-#### Meteore *(active)*
+<img alt="Fireball" src="../img/skills/fireball.png" style="margin: 0; padding: 0; float: right;">
 
-#### Cold feet *(active)*
+### Meteore *(active)*
 
-#### Offensive Senses *(passive)*
+<img alt="Meteore" src="../img/skills/meteore.png" style="margin: 0; padding: 0; float: right;">
 
-#### Damage Zone *(passive)*
+### Cold feet *(active)*
+
+<img alt="Cold feet" src="../img/skills/cold-feet.png" style="margin: 0; padding: 0; float: right;">
+
+### Offensive Senses *(passive)*
+
+<img alt="Offensive Senses" src="../img/skills/offensive-senses.png" style="margin: 0; padding: 0; float: right;">
+
+### Damage Zone *(passive)*
+
+<img alt="Damage Zone" src="../img/skills/damage-zone.png" style="margin: 0; padding: 0; float: right;">
+
+&nbsp;
 
 ----
 
 ## Trapper
 
-#### Fire Trap *(active)*
+### Fire Trap *(active)*
 
-#### Snare Trap *(active)*
+<img alt="Fire Trap" src="../img/skills/fire-trap.png" style="margin: 0; padding: 0; float: right;">
 
-#### Stun Trap *(passive)*
+### Snare Trap *(active)*
 
-#### Careful *(passive)*
+<img alt="Snare Trap" src="../img/skills/snare-trap.png" style="margin: 0; padding: 0; float: right;">
 
-#### Far Sight *(passive)*
+### Stun Trap *(passive)*
+
+<img alt="Stun Trap" src="../img/skills/stun-trap.png" style="margin: 0; padding: 0; float: right;">
+
+### Careful *(passive)*
+
+<img alt="Careful" src="../img/skills/careful.png" style="margin: 0; padding: 0; float: right;">
+
+### Far Sight *(passive)*
+
+<img alt="Far Sight" src="../img/skills/far-sight.png" style="margin: 0; padding: 0; float: right;">
+
+&nbsp;
 
 ----
 
 ## Archer
 
-#### Snipe *(active)*
+### Snipe *(active)*
 
-#### Dazzle *(active)*
+<img alt="Snipe" src="../img/skills/snipe.png" style="margin: 0; padding: 0; float: right;">
 
-#### Ghost Arrow *(active)*
+### Dazzle *(active)*
 
-#### Poisonous *(passive)*
+<img alt="Dazzle" src="../img/skills/dazzle.png" style="margin: 0; padding: 0; float: right;">
 
-#### Sniper *(passive)*
+### Ghost Arrow *(active)*
+
+<img alt="Ghost Arrow" src="../img/skills/ghost-arrow.png" style="margin: 0; padding: 0; float: right;">
+
+### Poison *(passive)*
+
+<img alt="Poison" src="../img/skills/poison.png" style="margin: 0; padding: 0; float: right;">
+
+### Sniper *(passive)*
+
+<img alt="Sniper" src="../img/skills/sniper.png" style="margin: 0; padding: 0; float: right;">
+
+&nbsp;
 
 ----
 
 ## Rogue
 
-#### Shadow walk *(active)*
+### Shadow walk *(active)*
 
-#### Heavy poison *(active)*
+<img alt="Shadow walk" src="../img/skills/shadow-walk.png" style="margin: 0; padding: 0; float: right;">
 
-#### Dazzling poison *(active)*
+### Heavy poison *(active)*
 
-#### Sneaky *(passive)*
+<img alt="Heavy poison" src="../img/skills/heavy-poison.png" style="margin: 0; padding: 0; float: right;">
 
-#### Lucky foot *(passive)*
+### Dazzling poison *(active)*
+
+<img alt="Dazzling poison" src="../img/skills/dazzling-poison.png" style="margin: 0; padding: 0; float: right;">
+
+### Sneaky *(passive)*
+
+<img alt="Sneaky" src="../img/skills/sneaky.png" style="margin: 0; padding: 0; float: right;">
+
+### Lucky foot *(passive)*
+
+<img alt="Lucky foot" src="../img/skills/lucky-foot.png" style="margin: 0; padding: 0; float: right;">
+
+&nbsp;
 
 ----
 
 ## Warrior
 
-#### Smash *(active)*
+### Smash *(active)*
 
-#### Bladestorm *(active)*
+<img alt="Smash" src="../img/skills/smash.png" style="margin: 0; padding: 0; float: right;">
 
-#### Enhanced sword *(active)*
+### Bladestorm *(active)*
 
-#### Penetration *(passive)*
+<img alt="Bladestorm" src="../img/skills/bladestorm.png" style="margin: 0; padding: 0; float: right;">
 
-#### Avenger *(passive)*
+### Enhanced Sword *(active)*
+
+<img alt="Enhanced Sword" src="../img/skills/enhanced-sword.png" style="margin: 0; padding: 0; float: right;">
+
+### Penetration *(passive)*
+
+<img alt="Penetration" src="../img/skills/penetration.png" style="margin: 0; padding: 0; float: right;">
+
+### Avenger *(passive)*
+
+<img alt="Avenger" src="../img/skills/avenger.png" style="margin: 0; padding: 0; float: right;">
+
+&nbsp;
 
 ----
 
 ## Tank
 
-#### Shield break *(active)*
+### Shield Break *(active)*
 
-#### Shield bumb *(active)*
+<img alt="Shield Break" src="../img/skills/shield-break.png" style="margin: 0; padding: 0; float: right;">
 
-#### Great Wall *(active)*
+### Shield Bump *(active)*
 
-#### Last man standing *(passive)*
+<img alt="Shield Bump" src="../img/skills/shield-bump.png" style="margin: 0; padding: 0; float: right;">
 
-#### Way of the shield *(passive)*
+### Great Wall *(active)*
+
+<img alt="Great Wall" src="../img/skills/great-wall.png" style="margin: 0; padding: 0; float: right;">
+
+### Last man standing *(passive)*
+
+<img alt="Last man standing" src="../img/skills/last-man-standing.png" style="margin: 0; padding: 0; float: right;">
+
+### Way of the shield *(passive)*
+
+<img alt="Way of the shield" src="../img/skills/way-of-the-shield.png" style="margin: 0; padding: 0; float: right;">
+
+&nbsp;
 
 ----
 
 ## Priest
 
-#### Holy Hand *(active)*
+### Holy Hand *(active)*
 
-#### Divine Protection *(active)*
+<img alt="Holy Hand" src="../img/skills/holy-hand.png" style="margin: 0; padding: 0; float: right;">
 
-#### Shieldify *(active)*
+### Divine Protection *(active)*
 
-#### Phoenix *(passive)*
+<img alt="Divine Protection" src="../img/skills/divine-protection.png" style="margin: 0; padding: 0; float: right;">
 
-#### Holy Well *(passive)*
+### Shieldify *(active)*
+
+<img alt="Shieldify" src="../img/skills/shieldify.png" style="margin: 0; padding: 0; float: right;">
+
+### Phoenix *(passive)*
+
+<img alt="Phoenix" src="../img/skills/phoenix.png" style="margin: 0; padding: 0; float: right;">
+
+### Holy Well *(passive)*
+
+<img alt="Holy Well" src="../img/skills/holy-well.png" style="margin: 0; padding: 0; float: right;">
