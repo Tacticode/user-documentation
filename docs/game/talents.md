@@ -215,25 +215,64 @@ This passive skill does not require line of sight.
 
 ## Tank
 
+The Tank is a physical class designed to protect allies and reduce physical damage received.
+
+This is one of the two Orc branches and is located next to Human race.
+
+You can find this class on the left part of the tree.
+
 ### Shield Break *(active)*
 
 <img alt="Shield Break" src="../img/skills/shield-break.png" style="margin: 0; padding: 0; float: right;">
+
+Shield Break pushes back by 2 cells up to 4 entities around the caster.
+
+If a wall stands in the way, the entities are not moved past the wall and stop.
+
+* Range: 0
+* Area of effect: 1 cell
+* Cooldown: 2 turns
+* Line of sight?: Yes
 
 ### Shield Bump *(active)*
 
 <img alt="Shield Bump" src="../img/skills/shield-bump.png" style="margin: 0; padding: 0; float: right;">
 
+Shield Bump is a close combat talent that deals [1 x strength] damages to the target.
+
+* Range: 1
+* Area of effect: 1 cell
+* Cooldown: 1 turns
+* Line of sight?: Yes
+
 ### Great Wall *(active)*
 
 <img alt="Great Wall" src="../img/skills/great-wall.png" style="margin: 0; padding: 0; float: right;">
+
+Great Wall makes the caster take a defensive stance, increasing its defence by [1.5 x strength] at the cost of 2 movement points for the entire duration.
+
+Great Wall last 2 turns.
+
+* Range: 0
+* Area of effect: 1 cell
+* Cooldown: 3 turns
+* Line of sight?: Yes
 
 ### Last man standing *(passive)*
 
 <img alt="Last man standing" src="../img/skills/last-man-standing.png" style="margin: 0; padding: 0; float: right;">
 
+Last man standing multiplies the defence of the bearer by 1.5 when its current hit points are less than 30% of its total hit points.
+
+&nbsp;
+
 ### Way of the shield *(passive)*
 
 <img alt="Way of the shield" src="../img/skills/way-of-the-shield.png" style="margin: 0; padding: 0; float: right;">
+
+Way of the shield halves the physical damages dealt and the physical damages received.
+
+This passive reduces the bearer movement points by 1.
 
 &nbsp;
 
