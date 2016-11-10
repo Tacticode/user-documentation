@@ -15,7 +15,7 @@ pip install mkdocs
 
 ### Linux (Debian)
 
-```
+```sh
 # Install pip
 sudo apt-get install python-pip
 # Install mkdocs
