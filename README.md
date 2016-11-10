@@ -1,6 +1,6 @@
 The user documentation for Tacticode, made with MkDocs.
 
-## Build Instructions
+## MkDocs Installation
 
 ### Windows (Cygwin)
 
@@ -12,6 +12,17 @@ python get-pip.py
 # Install mkdocs
 pip install mkdocs
 ```
+
+### Linux (Debian)
+
+```
+# Install pip
+sudo apt-get install python-pip
+# Install mkdocs
+pip install mkdocs
+```
+
+## Build Instructions
 
 You can then either build the site or run a local server.
 
