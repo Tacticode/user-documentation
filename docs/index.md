@@ -8,7 +8,7 @@ A video-game made by developers, for developers. [https://tacticode.net/](https:
 
 Tacticode is a game where you control a team of five characters. The objective is to defeat the opponent's team by killing their own five characters.
 
-You can customize your characters by choosing from a large range of skills, passive and active. You could have a balanced team, composed of two rangers, two healers and maybe a rogue, or just decide to rush in with five heavy warriors. 
+You can customize your characters by choosing from a large range of skills, passive and active. You could have a balanced team, composed of two rangers, two healers and maybe a rogue, or just decide to rush in with five heavy warriors.
 
 However, there is a trick: the behaviour of each character has to be scripted in JavaScript, you cannot manually control them. The winner is the one with the best AI and the best team composition. There is no randomness in the calculations.
 
@@ -21,6 +21,8 @@ However, there is a trick: the behaviour of each character has to be scripted in
 * [Arena & rankings](game/arena.md): Everything you need to know about the arena and the ELO ranking.
 
 * [Scripting - Getting started](scripting/getting-started.md): Want to know how to create your first AI script?
+
+* [Scripting - Samples](scripting/samples.md): A few basic scripts and functions to get you started into the game.
 
 ## Screenshots
 

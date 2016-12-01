@@ -7,3 +7,4 @@ pages:
     - 'Arena & rankings': 'game/arena.md'
 - Scripting:
     - 'Getting started': 'scripting/getting-started.md'
+    - 'Samples': 'scripting/samples.md'
